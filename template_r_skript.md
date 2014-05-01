@@ -1,30 +1,73 @@
+===========================================
 **name**
-==========================================
-plot cars
+===========================================
 
+plot women
+***
+
+
+===========================================
 **Description**
-==========================================
-A simple script to plot the car dataset of R
+===========================================
 
+
+A simple script to plot the women dataset of R
+***
+
+===========================================
 **Usage**
-call the function line by line 
+===========================================
 
+
+call the function line by line
+***
+
+===========================================
 **Input**
-cars (dataset yet implemented in R)
+===========================================
 
+
+women (dataset yet implemented in R)
+***
+
+===========================================
 **Output**
-1. plot speed vs distance 
+===========================================
+
+
+1. plot weight vs height
 2. give information of variables (console)
 
+***
+
+===========================================
 **author**
-M.O.
+===========================================
 
 
-**plot speed vs distance**
+Marc
+***
+
+
+
+**plot weight vs height**
+-------------------------------------------
+
 ```{r}
-plot(cars)
+plot(women)
 ```
-**informationen zu den variablen**
+***
+
+**information of the variables**
+-------------------------------------------
+
 
 ```{r}
-str(cars)
+str(women)
+```
+***
+
+
+
+
+
